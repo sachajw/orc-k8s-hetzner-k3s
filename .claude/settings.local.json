@@ -3,7 +3,8 @@
     "allow": [
       "Bash(crystal tool format:*)",
       "Bash(grep:*)",
-      "Bash(crystal build:*)"
+      "Bash(crystal build:*)",
+      "Bash(wc:*)"
     ],
     "deny": []
   }
